@@ -1,6 +1,6 @@
-# Project 3 - Twitter
+# Project 3 - *Twitter*
 
-Twitter is a basic twitter app to read your tweets.
+**Twitter** is a basic twitter app to read your tweets.
 
 Time spent: **X** hours spent in total
 
